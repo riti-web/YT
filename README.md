@@ -33,9 +33,6 @@ When the target opens this URL and grants camera permission, CamPhish silently c
 - ✅ macOS (Intel & Apple Silicon)
 - ✅ Windows (via WSL)
 
----
-
-----
 ## 🧪 CREATE BY YATHARTH 
 @YATHARTH
 -----
